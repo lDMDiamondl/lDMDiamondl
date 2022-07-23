@@ -1,16 +1,21 @@
-### Hi there 👋
+# 💎DMDiamond💎
 
-<!--
-**lDMDiamondl/lDMDiamondl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmdiamond)](https://solved.ac/dmdiamond/)
+![BOJ Streak](http://mazandi.herokuapp.com/api?handle=dmdiamond&theme=dark)
 
-Here are some ideas to get you started:
+# 👋About Me👋
+### ⌨️Currently Learning⌨️
+![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=Cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C♯-239120C.svg?&style=for-the-badge&logo=Csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️Using Tools🛠️
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+
+# :mailbox_with_mail: Contacts
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:k2iunoki@gmail.com)](mailto:k2iunoki@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:k2i123@naver.com)](mailto:k2i123@naver.com)
+[![Twitter Badge](http://img.shields.io/badge/-Twitter-00ACEE?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/dmdiamond1234/)](https://twitter.com/dmdiamond1234/)
+[![Discord Badge](http://img.shields.io/badge/-Discord-5662F6?style=flat-square&logo=Discord&logoColor=white&link=https://discordapp.com/users/539588686430339073/)](https://discordapp.com/users/539588686430339073/)
