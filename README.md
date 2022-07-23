@@ -1,7 +1,7 @@
 # 💎DMDiamond💎
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmdiamond)](https://solved.ac/dmdiamond/)
-![BOJ Streak](http://mazandi.herokuapp.com/api?handle=dmdiamond&theme=dark)
+![Solved.ac Streak](http://mazandi.herokuapp.com/api?handle=dmdiamond&theme=dark)
 
 # 👋About Me👋
 ### ⌨️Currently Learning⌨️
