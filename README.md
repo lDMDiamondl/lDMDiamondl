@@ -1,17 +1,20 @@
 # 💎DMDiamond💎
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmdiamond)](https://solved.ac/dmdiamond/)
-![Solved.ac Streak](http://mazandi.herokuapp.com/api?handle=dmdiamond&theme=dark)
+![Solved.ac Profile](https://solvedac-cards-starcea.paring.moe/profile/dmdiamond?size=220)
+![Solved.ac Donut](https://solvedac-cards-starcea.paring.moe/problems/dmdiamond?size=220)
+![Solved.ac Tag](https://solvedac-cards-starcea.paring.moe/tags/dmdiamond?size=220)
+<!--![Solved.ac Streak](http://mazandi.herokuapp.com/api?handle=dmdiamond&theme=dark)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmdiamond)](https://solved.ac/dmdiamond/)-->
 
 # 👋About Me👋
 ### ⌨️Currently Learning⌨️
-![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=Cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C♯-239120C.svg?&style=for-the-badge&logo=Csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C_&_C++-00599C.svg?&style=for-the-badge&logo=Cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C♯-994892.svg?&style=for-the-badge&logo=Csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-FF7043.svg?&style=for-the-badge&logo=Rust&logoColor=white)
 
 ### 🛠️Using Tools🛠️
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
 # 📬Contacts📬
