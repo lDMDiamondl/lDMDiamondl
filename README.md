@@ -13,7 +13,7 @@
 ![C#](https://img.shields.io/badge/C♯-994892.svg?&style=for-the-badge&logo=Csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-FF7043.svg?&style=for-the-badge&logo=Rust&logoColor=white)-->
-![Language](https://skillicons.dev/icons?i=c,cpp,cs,python,rust,html,css,js)
+![Language](https://skillicons.dev/icons?i=c,cpp,cs,python,html,css,js)
 
 ### Framework
 ![Framework](https://skillicons.dev/icons?i=react)
