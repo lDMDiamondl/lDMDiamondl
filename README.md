@@ -13,15 +13,18 @@
 ![C#](https://img.shields.io/badge/C♯-994892.svg?&style=for-the-badge&logo=Csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-FF7043.svg?&style=for-the-badge&logo=Rust&logoColor=white)-->
-![Language](https://skillicons.dev/icons?i=c,cpp,cs,python,html,css,js)
+![Language](https://skillicons.dev/icons?i=c,cpp,python)
 
-### Framework
-![Framework](https://skillicons.dev/icons?i=react)
+### Framework & Libraries
+![Framework](https://skillicons.dev/icons?i=anaconda,sklearn,pytorch,tensorflow,opencv)
 
 ### Using Tools
 <!--![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)-->
 ![Tools](https://skillicons.dev/icons?i=vscode,git,github)
+
+### Etc
+![Tools](https://skillicons.dev/icons?i=bash,linux,ubuntu)
 
 # 📬Contacts📬
 <!--[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:k2iunoki@gmail.com)](mailto:k2iunoki@gmail.com)
