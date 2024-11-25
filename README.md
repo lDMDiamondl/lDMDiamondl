@@ -16,7 +16,7 @@
 ![Language](https://skillicons.dev/icons?i=c,cpp,python)
 
 ### Framework & Libraries
-![Framework](https://skillicons.dev/icons?i=anaconda,sklearn,pytorch,tensorflow,opencv)
+![Framework](https://skillicons.dev/icons?i=anaconda,sklearn,pytorch,opencv,django)
 
 ### Using Tools
 <!--![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
