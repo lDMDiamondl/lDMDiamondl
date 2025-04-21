@@ -1,6 +1,6 @@
 # 💎DMDiamond💎
 
-[Solved.ac Profile](https://solvedac-cards-starcea.paring.moe/profile/dmdiamond?size=220)
+![Solved.ac Profile](https://solvedac-cards-starcea.paring.moe/profile/dmdiamond?size=220)
 <!--![Solved.ac Donut](https://solvedac-cards-starcea.paring.moe/problems/dmdiamond?size=220)
 <!--![Solved.ac Tag](https://solvedac-cards-starcea.paring.moe/tags/dmdiamond?size=220)-->
 <!--![Solved.ac Streak](http://mazandi.herokuapp.com/api?handle=dmdiamond&theme=dark)-->
