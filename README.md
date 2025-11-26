@@ -19,7 +19,7 @@
 ![Language](https://skillicons.dev/icons?i=c,cpp,python)
 
 ### Framework & Libraries
-![Framework](https://skillicons.dev/icons?i=anaconda,sklearn,pytorch,opencv)
+![Framework](https://skillicons.dev/icons?i=anaconda,sklearn,pytorch,tensorflow,opencv)
 
 ### Using Tools
 <!--![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
@@ -37,3 +37,4 @@
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:k2iunoki@gmail.com)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/dmdiamond1234)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/539588686430339073)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/%EB%AF%BC%EC%B1%84-%EA%B9%80-852b55367)
