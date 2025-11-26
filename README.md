@@ -27,7 +27,7 @@
 ![Tools](https://skillicons.dev/icons?i=vscode,git,github,docker)
 
 ### Etc
-![Tools](https://skillicons.dev/icons?i=bash,linux,ubuntu)
+![Tools](https://skillicons.dev/icons?i=bash,linux,ubuntu,latex)
 
 # 📬Contacts📬
 <!--[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:k2iunoki@gmail.com)](mailto:k2iunoki@gmail.com)
