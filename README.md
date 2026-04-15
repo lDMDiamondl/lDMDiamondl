@@ -5,9 +5,7 @@
 <!--![Solved.ac Tag](https://solvedac-cards-starcea.paring.moe/tags/dmdiamond?size=220)-->
 <!--![Solved.ac Streak](http://mazandi.herokuapp.com/api?handle=dmdiamond&theme=dark)-->
 <!--![![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmdiamond)](https://solved.ac/dmdiamond/)-->
-<div align="center">
-  <p align=center><a href="https://solved.ac/profile/dmdiamond"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=dmdiamond"></a></p>
-</div>
+[![Solved.ac Card](https://solvedac-readme-stats.vercel.app/api?handle=dmdiamond&v=1)](https://solved.ac/dmdiamond/)
 
 # ⌨️Currently Learning⌨️
 
