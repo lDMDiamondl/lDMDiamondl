@@ -5,7 +5,13 @@
 <!--![Solved.ac Tag](https://solvedac-cards-starcea.paring.moe/tags/dmdiamond?size=220)-->
 <!--![Solved.ac Streak](http://mazandi.herokuapp.com/api?handle=dmdiamond&theme=dark)-->
 <!--![![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmdiamond)](https://solved.ac/dmdiamond/)-->
-[![Solved.ac Card](https://solvedac-readme-stats.vercel.app/api?handle=dmdiamond&v=1)](https://solved.ac/dmdiamond/)
+<!--[![Solved.ac Card](https://solvedac-readme-stats.vercel.app/api?handle=dmdiamond&v=1)](https://solved.ac/dmdiamond/)-->
+
+<br>
+<div align=center>
+  <img src="./BOJ memory - dmdiamond.png">
+</div>
+<br>
 
 # ⌨️Currently Learning⌨️
 
