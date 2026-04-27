@@ -9,7 +9,7 @@
 
 <br>
 <div align=center>
-  <img src="./BOJ memory - dmdiamond.png">
+  <img src="./BOJ_memory.png">
 </div>
 <br>
 
