@@ -8,7 +8,7 @@
 <!--[![Solved.ac Card](https://solvedac-readme-stats.vercel.app/api?handle=dmdiamond&v=1)](https://solved.ac/dmdiamond/)-->
 
 <p align="center">
-  <img src="BOJ_memory.png?v=2" alt="BOJ Memory">
+  <img src="BOJ_memory.png?v=4" alt="BOJ Memory">
 </p>
 
 # ⌨️Currently Learning⌨️
