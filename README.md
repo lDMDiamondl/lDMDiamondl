@@ -7,11 +7,9 @@
 <!--![![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmdiamond)](https://solved.ac/dmdiamond/)-->
 <!--[![Solved.ac Card](https://solvedac-readme-stats.vercel.app/api?handle=dmdiamond&v=1)](https://solved.ac/dmdiamond/)-->
 
-<br>
-<div align="center">
-  <img src="./BOJ_memory.png?v=2">
-</div>
-<br>
+<p align="center">
+  <img src="BOJ_memory.png?v=3" alt="BOJ Memory">
+</p>
 
 # ⌨️Currently Learning⌨️
 
