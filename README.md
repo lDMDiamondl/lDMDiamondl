@@ -8,8 +8,8 @@
 <!--[![Solved.ac Card](https://solvedac-readme-stats.vercel.app/api?handle=dmdiamond&v=1)](https://solved.ac/dmdiamond/)-->
 
 <br>
-<div align=center>
-  <img src="./BOJ_memory.png">
+<div align="center">
+  <img src="./BOJ_memory.png?v=2">
 </div>
 <br>
 
