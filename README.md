@@ -11,6 +11,8 @@
   <img src="BOJ_memory.png?v=6" alt="BOJ Memory">
 </p>
 
+[![codemaru card for lDMDiamondl](https://codemaru.bnbong.com/api/card.svg?github=lDMDiamondl&boj=dmdiamond&leetcode=dmdiamond&theme=transparent)](https://github.com/lDMDiamondl)
+
 # ⌨️Currently Learning⌨️
 
 ### Languages
