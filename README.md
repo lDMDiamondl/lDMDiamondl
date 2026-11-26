@@ -6,10 +6,11 @@
 <!--![Solved.ac Streak](http://mazandi.herokuapp.com/api?handle=dmdiamond&theme=dark)-->
 <!--![![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmdiamond)](https://solved.ac/dmdiamond/)-->
 <!--[![Solved.ac Card](https://solvedac-readme-stats.vercel.app/api?handle=dmdiamond&v=1)](https://solved.ac/dmdiamond/)-->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmdiamond)](https://solved.ac/dmdiamond/)
 
-<p align="center">
+<!-- <p align="center">
   <img src="profile.png" alt="BOJ Memory">
-</p>
+</p> -->
 
 [![codemaru card for lDMDiamondl](https://codemaru.bnbong.com/api/card.svg?github=lDMDiamondl&boj=dmdiamond&leetcode=dmdiamond&theme=transparent)](https://github.com/lDMDiamondl)
 
